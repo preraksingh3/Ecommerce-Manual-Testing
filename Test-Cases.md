@@ -28,8 +28,8 @@
   2. Enter a valid username.
   3. Enter an incorrect password.
   4. Click the Login button.
-- **Expected Result:** Login should be rejected, and an appropriate error message should appear.
-- **Actual Result:** Pending execution.
+- **Expected Result:** Login was rejected, and an error message was displayed after entering an incorrect password.
+- **Actual Result:** Pass
 - **Status:** Not Executed.
 
 ## TC_LOGIN_003 – Login with Empty Fields
