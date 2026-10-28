@@ -55,8 +55,8 @@
   2. Click its Add to Cart button.
   3. Open the shopping cart.
 - **Expected Result:** The selected product should appear in the shopping cart.
-- **Actual Result:** Pending execution.
-- **Status:** Not Executed.
+- **Actual Result:** The selected product appeared in the shopping cart after clicking Add to Cart.
+- **Status:** Pass.
 
 ## TC_CHECKOUT_001 – Checkout with Valid Customer Details
 
