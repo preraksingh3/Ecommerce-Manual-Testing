@@ -14,8 +14,8 @@
   2. Enter a valid username.
   3. Enter the corresponding password.
   4. Click the Login button.
-- **Expected Result:** The user should successfully log in and reach the products page.
-- **Actual Result:** Pending execution.
+- **Expected Result:**  Login was successful, and the products page was displayed. The URL ended in /inventory.html.
+- **Actual Result:**  Pass.
 - **Status:** Not Executed.
 
 ## TC_LOGIN_002 – Login with Invalid Password
