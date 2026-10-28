@@ -41,8 +41,8 @@
   1. Open the application.
   2. Leave the username and password fields empty.
   3. Click the Login button.
-- **Expected Result:** Login should be rejected, and a suitable validation message should appear.
-- **Actual Result:** Pending execution.
+- **Expected Result:** Login was rejected, and a validation message was displayed when both username and password fields were left empty.
+- **Actual Result:** Pass.
 - **Status:** Not Executed.
 
 ## TC_CART_001 – Add a Product to the Cart
