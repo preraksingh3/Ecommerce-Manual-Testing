@@ -11,12 +11,12 @@
 ## 2. Test Execution Summary
 
  Test Case ID  |      Test Scenario                      |       Expected Result                    |              Actual Result                     | Status |
-________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 | TC_LOGIN_001 | Login with valid credentials            | User reaches the products page           | Products page displayed after login             | Pass |
 | TC_LOGIN_002 | Login with invalid password             | Login rejected with an error message     | Login rejected and error message displayed      | Pass |
 | TC_LOGIN_003 | Login with empty fields                 | Login rejected with a validation message | Login rejected and validation message displayed | Pass |
 | TC_CART_001  | Add a product to the cart               | Selected product appears in cart         | Selected product appeared in cart               | Pass |
-| TC_CHECKOUT_001 | Checkout with valid customer details | User reaches the order summary           | Not yet executed | Not Executed |
+| TC_CHECKOUT_001 | Checkout with valid customer details | User reaches the order summary           | Not yet executed                            | Not Executed |
 
 ## 3. Execution Metrics
 
