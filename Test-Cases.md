@@ -14,9 +14,9 @@
   2. Enter a valid username.
   3. Enter the corresponding password.
   4. Click the Login button.
-- **Expected Result:**  Login was successful, and the products page was displayed. The URL ended in /inventory.html.
-- **Actual Result:**  Pass.
-- **Status:** Not Executed.
+- **Expected Result:**  The user should successfully log in and reach the products page.
+- **Actual Result:**  Login was successful, and the products page was displayed. The URL ended in /inventory.html.
+- **Status:** Pass.
 
 ## TC_LOGIN_002 – Login with Invalid Password
 
@@ -28,9 +28,9 @@
   2. Enter a valid username.
   3. Enter an incorrect password.
   4. Click the Login button.
-- **Expected Result:** Login was rejected, and an error message was displayed after entering an incorrect password.
-- **Actual Result:** Pass
-- **Status:** Not Executed.
+- **Expected Result:** Login should be rejected, and an appropriate error message should appear.
+- **Actual Result:** Login was rejected, and an error message was displayed after entering an incorrect password.
+- **Status:** Pass.
 
 ## TC_LOGIN_003 – Login with Empty Fields
 
@@ -41,9 +41,9 @@
   1. Open the application.
   2. Leave the username and password fields empty.
   3. Click the Login button.
-- **Expected Result:** Login was rejected, and a validation message was displayed when both username and password fields were left empty.
-- **Actual Result:** Pass.
-- **Status:** Not Executed.
+- **Expected Result:** Login should be rejected, and a suitable validation message should appear.
+- **Actual Result:** Login was rejected, and a validation message was displayed when both username and password fields were left empty.
+- **Status:** Pass.
 
 ## TC_CART_001 – Add a Product to the Cart
 
